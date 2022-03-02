@@ -128,10 +128,7 @@ body {
   border: 0ch;
   padding: 10px;
   text-align: left;
-}
-
-.buscador-texto input:hover {
-  background-color: gray;
+  outline: none;
 }
 
 .buscador-microfono {
